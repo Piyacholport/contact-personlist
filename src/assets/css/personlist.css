@@ -1,0 +1,144 @@
+.tables {
+  overflow-y: auto;
+  height: 500px;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+th,
+td {
+  padding: 0.1rem 4rem;
+  vertical-align: middle;
+}
+.td-center {
+  text-align: center;
+}
+th {
+  font-size: 15px;
+}
+td {
+  font-size: 13px;
+  border-bottom: 1px solid #e8e8ea;
+}
+thead {
+  border-bottom: 3px solid #e8e8ea;
+}
+tbody tr:nth-child(even) {
+  background-color: #f9f9fc;
+  color: #000;
+}
+.img-avatar {
+  margin-right: 10px;
+}
+.btn-more {
+  display: flex;
+  align-items: center;
+  background-color: #f8f8f9 !important;
+  border-radius: 4px;
+  width: 32px;
+  height: 32px;
+  border: none;
+}
+.btn-more:focus {
+  background-color: #454957 !important;
+}
+
+.color-button:focus img,
+.color-button:active img {
+  filter: invert(1);
+}
+.list-icon {
+  margin-right: 10px;
+}
+/**paginate */
+.items-per-page {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.items-per-page label {
+  margin-right: 5px;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+  height: 50px;
+}
+.pagination li {
+  margin-right: 5px;
+}
+.pagination a {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid #d1d2d5;
+  text-decoration: none;
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.pagination a.active {
+  background-color: #454957;
+  color: #fff;
+}
+.text-select-page {
+  margin-left: 10px;
+  color: #747988;
+  font-size: 13px;
+  font-weight: 400;
+}
+.select-items-per-page {
+  width: 80px;
+  height: 30px;
+
+  border-radius: 4px;
+  border: 1px solid #d1d2d5;
+}
+
+.btn-paginate {
+  border: none;
+  width: 30px;
+  height: 30px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+.checkbox-input{
+  width: 20px;
+  height: 20px;
+  
+ 
+}
+.label-check{
+  margin-top: 4px;
+}
+.edit-modal{
+  padding: 2.5rem;
+}
+.center{
+  text-align: center;
+}
+.form-edit{
+text-align: center;
+ 
+}
+.input-edit-form{
+  padding: 1rem;
+ 
+
+}
+.inputtedit-group{
+  border: 1px solid #d1d2d5;
+  padding: 0.5rem;
+  border-radius: 4px;
+}

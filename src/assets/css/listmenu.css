@@ -1,0 +1,28 @@
+.sidebar-heading {
+  display: flex;
+  justify-content: space-between;
+}
+.sidebar {
+  padding: 0.8rem 0rem 0.8rem 0rem;
+}
+.list-group-item {
+  border: none;
+  display: flex;
+  align-items: center;
+}
+.list-menu-icon {
+  margin-right: 10px;
+}
+.flexmenu {
+  display: flex;
+  justify-content: space-between;
+}
+.btn-sub-dropdown {
+  background: none;
+  border: none;
+}
+.icon-sub-menu {
+  padding-left: 20px;
+  margin-right: 10px;
+}
+/*dropdown*/

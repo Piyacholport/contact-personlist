@@ -1,0 +1,39 @@
+.form-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 100px;
+  padding: 0.2rem;
+  font-size: 13px;
+  width: 204px;
+  height: 36px;
+}
+
+.form-group label {
+  margin-right: 10px;
+}
+
+.form-group input {
+  flex: 1;
+  border: none;
+  outline: none;
+}
+
+.right {
+  margin-right: 10px;
+}
+.left {
+  margin-left: 10px;
+}
+.right20 {
+  margin-right: 20px;
+}
+.leftright {
+  margin-left: 20px;
+  margin-right: 20px;
+}

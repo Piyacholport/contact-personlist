@@ -1,0 +1,28 @@
+
+[
+    {
+        "Name": "Lucy",
+        "Mobile Number": "0891234567",
+        "Company": "ABC Company",
+        "LastContact": "2023-07-23 10:15:00"
+    },
+    {
+        "Name": "Shinjang",
+        "Mobile Number": "0879876543",
+        "Company": "XYZ Corporation",
+        "LastContact": "2023-07-22 15:30:00"
+    },
+    {
+        "Name": "MiuMiu",
+        "Mobile Number": "0865678901",
+        "Company": "123 Industries",
+        "LastContact": "2023-07-21 12:45:00"
+    },
+    {
+        "Name": "Lufy",
+        "Mobile Number": "0879876543",
+        "Company": "XYZ Corporation",
+        "LastContact": "2023-07-22 15:30:00"
+    }
+  
+]

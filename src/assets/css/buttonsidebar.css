@@ -1,0 +1,85 @@
+.navbar-brand{
+    font-weight: bold;
+    font-size: 20px;
+  
+  }
+  
+  nav{
+    height: 60px;
+  }
+  .header-text{
+    display: flex;
+    align-items: center;
+  }
+  .white-space{
+    height: 10px;
+  }
+  .header {
+    padding-left: 1%;
+  }
+  .btn-white {
+    background: #fff;
+  }
+  .btn-dropdown {
+    border: 1px solid #d1d2d5;
+    margin-left: 10px;
+  }
+  .btn-nav-outline {
+    background: none;
+    padding: 0.1rem 1.2rem;
+    border-radius: 4px;
+    border: 1px solid #b9bbc0;
+    color: #000;
+  }
+  
+  .plus {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .btn-icon-light {
+    background: #e8e8ea;
+  }
+  
+  .btn-icon-light:hover {
+    background: #dddddd;
+  }
+  .btn-icon-light:active {
+    background: #dddddd;
+    border: none;
+  }
+  .btn-icon-gray {
+    background: #e8e8ea;
+    margin-left: -50px;
+    border: none;
+    width: 32px;
+    height: 32px;
+  }
+  
+  .btn-nav-icon,
+  .btn-nav-outline {
+    margin-left: 8px;
+  }
+  
+  .Rectangle-310 {
+  
+    background: #f8f8f9;
+    padding: 0.5rem 0.5rem;
+    color: #454957;
+    display: flex;
+    justify-content: space-between;
+  }
+  .dropdown-item{
+    display: flex;
+  
+  }
+  .icon-dropdown{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    
+  }
+  .trash-icon{
+    margin-top: -1px;
+  }
